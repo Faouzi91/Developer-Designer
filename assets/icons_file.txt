@@ -1,0 +1,80 @@
+/* Don't forget to import...
+import org.kde.plasma.core 2.0 as PlasmaCore
+*/
+    PlasmaCore.IconItem {
+        source: "indicator-messages-new"
+        Layout.preferredWidth: units.iconSizes.medium
+        Layout.preferredHeight: units.iconSizes.medium
+    }
+/* Don't forget to import...
+import org.kde.plasma.core 2.0 as PlasmaCore
+*/
+    PlasmaCore.IconItem {
+        source: "texmacs"
+        Layout.preferredWidth: units.iconSizes.medium
+        Layout.preferredHeight: units.iconSizes.medium
+    }
+
+/* Don't forget to import... go-home
+import org.kde.plasma.core 2.0 as PlasmaCore
+*/
+    PlasmaCore.IconItem {
+        source: "user-home"
+        Layout.preferredWidth: units.iconSizes.medium
+        Layout.preferredHeight: units.iconSizes.medium
+    }
+/* Don't forget to import... user-home-symbolic
+import org.kde.plasma.core 2.0 as PlasmaCore
+*/
+    PlasmaCore.IconItem {
+        source: "user-home-symbolic"
+        Layout.preferredWidth: units.iconSizes.medium
+        Layout.preferredHeight: units.iconSizes.medium
+    }
+
+/* Don't forget to import... designer
+import org.kde.plasma.core 2.0 as PlasmaCore
+*/
+    PlasmaCore.IconItem {
+        source: "designer"
+        Layout.preferredWidth: units.iconSizes.medium
+        Layout.preferredHeight: units.iconSizes.medium
+    }
+
+/* Don't forget to import... camera-photo
+import org.kde.plasma.core 2.0 as PlasmaCore
+*/
+    PlasmaCore.IconItem {
+        source: "camera-photo"
+        Layout.preferredWidth: units.iconSizes.medium
+        Layout.preferredHeight: units.iconSizes.medium
+    }
+
+
+/* Don't forget to import... camera-photo-symbol
+import org.kde.plasma.core 2.0 as PlasmaCore
+*/
+    PlasmaCore.IconItem {
+        source: "camera-photo-symbolic"
+        Layout.preferredWidth: units.iconSizes.medium
+        Layout.preferredHeight: units.iconSizes.medium
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
